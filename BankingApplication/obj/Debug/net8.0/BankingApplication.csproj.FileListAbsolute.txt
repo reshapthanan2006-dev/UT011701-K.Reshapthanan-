@@ -1,0 +1,15 @@
+Z:\C#\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+Z:\C#\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+Z:\C#\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+Z:\C#\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+Z:\C#\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.sourcelink.json
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+Z:\C#\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+Z:\C#\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+Z:\C#\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
