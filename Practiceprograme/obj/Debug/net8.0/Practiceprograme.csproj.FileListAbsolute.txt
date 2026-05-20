@@ -1,0 +1,14 @@
+Z:\practiceprograme\Practiceprograme\bin\Debug\net8.0\Practiceprograme.exe
+Z:\practiceprograme\Practiceprograme\bin\Debug\net8.0\Practiceprograme.deps.json
+Z:\practiceprograme\Practiceprograme\bin\Debug\net8.0\Practiceprograme.runtimeconfig.json
+Z:\practiceprograme\Practiceprograme\bin\Debug\net8.0\Practiceprograme.dll
+Z:\practiceprograme\Practiceprograme\bin\Debug\net8.0\Practiceprograme.pdb
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.GeneratedMSBuildEditorConfig.editorconfig
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.AssemblyInfoInputs.cache
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.AssemblyInfo.cs
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.csproj.CoreCompileInputs.cache
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.dll
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\refint\Practiceprograme.dll
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.pdb
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\Practiceprograme.genruntimeconfig.cache
+Z:\practiceprograme\Practiceprograme\obj\Debug\net8.0\ref\Practiceprograme.dll
